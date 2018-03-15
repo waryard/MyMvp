@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">MyMvp</string>
+
+  <string name="network_err">网络错误，请检查网络设置</string>
+  <string name="unexpected_err">未知错误</string>
+  <string name="server_err">服务器正在维护中，请稍后再试</string>
+  <string name="again_msg">点击重试</string>
+  <string name="os_again_msg">系统维护中,点击重试</string>
+  <string name="countdown_time">%d s</string>
+</resources>
